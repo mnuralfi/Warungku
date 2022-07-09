@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025922086885",
+    "firebase_url": "https://warungku-4e863-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "warungku-4e863",
+    "storage_bucket": "warungku-4e863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025922086885:android:f8498d52ac2d9176e1210c",
+        "android_client_info": {
+          "package_name": "com.warungku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025922086885-hr3dif2s4nq96gplloftveinmlaf34vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMlrfQQssDI2KRTLKvY3D83AldoD6HHJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025922086885-hr3dif2s4nq96gplloftveinmlaf34vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
