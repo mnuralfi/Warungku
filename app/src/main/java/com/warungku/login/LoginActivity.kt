@@ -3,6 +3,7 @@ package com.warungku.login
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.warungku.R
+import android.view.View
 import android.widget.TextView
 
 class LoginActivity : AppCompatActivity() {
@@ -11,6 +12,5 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        emailorphone
     }
 }
